@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gangadhar Munuri</h1>
 <h3 align="center">🚀 Full Stack Developer | ML Engineer | MERN | Django | FastAPI | Next.js | Data Science | Cloud Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B6F1&center=true&vCenter=true&width=460&lines=Full-Stack+Developer+%7C+Data+Scientist;MERN+%7C+Django+%7C+Next.js+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Open+Source+Contributor+%7C+Cloud+Explorer" alt="Typing SVG" />
-</p>
+
 
 ---
 
